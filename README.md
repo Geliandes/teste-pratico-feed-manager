@@ -1,4 +1,4 @@
-# Redimensionador e Compressor de Imagens
+# Manipulação de arquivo XML
 
 #### O objetivo desse programa criado em Node.JS faz parte de um o teste para uma vaga da empresa Raccoon.Monks:
 
